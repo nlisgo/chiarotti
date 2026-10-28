@@ -15,7 +15,5 @@ The site is currently previewed at https://nlisgo.github.io/chiarotti/.
 
 ## Images
 
-The photos in `assets/` were cropped from a phone photo of the printed flyer. Replace them with the original image files, keeping the same filenames:
-
-- `assets/rachel-portrait.jpg`: portrait (hero)
-- `assets/rachel-meeting.jpg`: Rachel with a client (about section)
+- `assets/rachel-portrait.jpg`: hero portrait, cropped to 4:5 from the original photo.
+- `assets/rachel-meeting.jpg`: Rachel with a client (about section), cropped from the digital flyer. Swap in the original photo for a higher-resolution version.
